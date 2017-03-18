@@ -1,0 +1,4 @@
+抽象类 inputstream 定义了read() read(byte[] b,off,len)
+		  -FileInputStream
+ 		  -FilterInputStream-DataInputStream
+		                    -BufferedInputStream
